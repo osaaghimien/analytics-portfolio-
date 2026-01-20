@@ -41,3 +41,7 @@ This repository contains **end-to-end Power BI projects**, including data modeli
 - **LinkedIn:** https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/
 - **Portfolio Website:** https://osapowerbideveloper.my.canva.site/
 - **Resume:** *(PDF link coming soon)*
+- <a href="https://app.powerbi.com/view?r=XXXXXXXX" target="_blank">
+  <strong>View Live Dashboard</strong>
+</a>
+
