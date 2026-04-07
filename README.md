@@ -1,46 +1,63 @@
-# Intro
-
-Hi, I’m a Business Intelligence Analyst focused on turning raw data into clear, actionable insights. I specialize in building dashboards and analytical solutions that help businesses understand performance, identify gaps, and make better decisions.
+Here’s a **clean, short sample README** following your exact structure and style 👇
 
 ---
 
-# What I Do
+## **Intro**
 
-I design and develop data solutions that answer three key business questions: what is happening, where it is happening, and why it is happening.
-
-My work includes:
-
-* Building interactive dashboards for operational and executive reporting
-* Analyzing trends to uncover performance issues and opportunities
-* Translating business needs into structured data models and KPIs
-* Supporting stakeholders with data-driven decision-making
+Welcome to my GitHub portfolio. I specialize in building data-driven solutions that help organizations understand performance, identify gaps, and make better decisions.
 
 ---
 
-# Tools & Skills
+## **About**
 
-* **BI & Visualization:** Power BI, DAX
-* **Data Querying:** SQL (T-SQL), SQL Server
-* **Data Modeling:** Star Schema, Data Transformation, ETL Concepts
-* **Reporting:** Dashboard Design, KPI Development, Storytelling
-* **Other Tools:** Excel
+I am a Business Intelligence Analyst focused on transforming raw data into meaningful insights. My work centers on building dashboards and analytical solutions that support operational and strategic decision-making.
 
 ---
 
-# Featured Projects
+## **Skills**
 
-**1. Regional Sales & Profit Performance Dashboard**
-
-* Built an executive dashboard to analyze sales, profit, and margin across regions
-* Identified top-performing markets and underperforming areas
-* Delivered insights to support strategic decision-making
----
-
-# Contact
-
-* LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Power BI
+* SQL
+* Excel
+* DAX
+* Data Modeling
+* Data Visualization
 
 ---
 
-If you want, I can tailor this to **exactly match your real projects and tone** so it feels 100% like you wrote it.
+## **Featured Projects**
+
+### **Sales Performance Dashboard**
+
+* Built an interactive dashboard to track revenue, profit, and regional performance
+* Tools: Power BI, SQL
+* Link: [View Project](#)
+
+---
+
+### **Hospital Readmission Analysis**
+
+* Analyzed readmission trends to identify cost and patient care improvement opportunities
+* Tools: SQL, Power BI
+* Link: [View Project](#)
+
+---
+
+## **Communication**
+
+* Project Walkthrough Video: [Watch Here](#)
+* Dashboard Demo: [View Here](#)
+
+---
+
+## **Contact**
+
+* Email: [yourname@email.com](mailto:yourname@email.com)
+* LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+If you want, I can next:
+
+* Tailor this to **your actual projects (readmission, supply chain, etc.)**
+* Or make it **slightly stronger for recruiter impact without making it longer** 👍
