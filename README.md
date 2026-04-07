@@ -1,10 +1,4 @@
-Here’s a **clean, short sample README** following your exact structure and style 👇
 
----
-
-## **Intro**
-
-Welcome to my GitHub portfolio. I specialize in building data-driven solutions that help organizations understand performance, identify gaps, and make better decisions.
 
 ---
 
@@ -55,9 +49,4 @@ I am a Business Intelligence Analyst focused on transforming raw data into meani
 * Email: [yourname@email.com](mailto:yourname@email.com)
 * LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
----
 
-If you want, I can next:
-
-* Tailor this to **your actual projects (readmission, supply chain, etc.)**
-* Or make it **slightly stronger for recruiter impact without making it longer** 👍
